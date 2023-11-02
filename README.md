@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Alan Pesalaccia</a> 👋</h1>
+</div>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg">
 
-<!--
-**apesalaccia/apesalaccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend developer
+- QA engineer
+- Apasionado por el cine y los videojuegos
+- Siempre en busca de nuevos conocimientos
+<br>
